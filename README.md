@@ -11,6 +11,6 @@ there are four ways to generate repeated text (They were just come up with):
 繰り返しの文章を生成する方法は4つあります(適当に思いついただけ):  
 
 1. シンプルなforループ
-2. 
-3. 
-4. 
+2. 分割されたforループ
+3. blobを作り、分割されたforループ
+4. ArrayBufferを作り、Uint8Arrayを用いて結合する
