@@ -18,3 +18,5 @@ And you can also use Promise (Optional)
 4. ArrayBufferを作り、Uint8Arrayを用いて結合する  
 
 Promiseを用いることもできます  
+
+## ※This didn't make yet. これはまだ作られていません
