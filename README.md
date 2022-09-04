@@ -21,4 +21,4 @@ Promiseを用いることもできます
 
 ## ※This didn't make yet. これはまだ作られていません
   
-## Follow MIT License (I think there are no those who use this lol) / MITライセンスには従ってね（とても他人が使うとは思えないがww）  
+## Follow MIT License (I don't think anyone will use it lol) / MITライセンスには従ってね（とても他人が使うとは思えないがww）  
