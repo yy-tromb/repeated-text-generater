@@ -20,3 +20,5 @@ And you can also use Promise (Optional)
 Promiseを用いることもできます  
 
 ## ※This didn't make yet. これはまだ作られていません
+  
+## Follow MIT License (I think there are no those who use this lol) / MITライセンスには従ってね（とても他人が使うとは思えないがww）  
